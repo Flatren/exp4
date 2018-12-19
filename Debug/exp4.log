@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\flatren\documents\visual studio 2015\projects\exp4\source.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\flatren\documents\visual studio 2015\projects\exp4\source.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+  LINK : не найден или не выполнена сборка C:\Users\FLATREN\Documents\Visual Studio 2015\Projects\exp4\Debug\exp4.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\FLATREN\Documents\Visual Studio 2015\Projects\exp4\Debug\exp4.lib и объект C:\Users\FLATREN\Documents\Visual Studio 2015\Projects\exp4\Debug\exp4.exp
+  exp4.vcxproj -> C:\Users\FLATREN\Documents\Visual Studio 2015\Projects\exp4\Debug\exp4.dll
+  exp4.vcxproj -> C:\Users\FLATREN\Documents\Visual Studio 2015\Projects\exp4\Debug\exp4.pdb (Partial PDB)
